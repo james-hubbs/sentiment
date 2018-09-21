@@ -3,7 +3,7 @@
 ### Introduction
 In this project, I scraped 6000 tweets about President Trump and 6000 tweets about President Obama and preformed a baseline sentiment analysis to determine whether the average sentiment between the two sets of tweets was different.
 
-Methods Used: web scraping, sentiment analysis, data visualizations, inferential statistics.
+Methods Used: web scraping, sentiment analysis, data visualization, inferential statistics.
 
 ### Data Collection
 The data were scraped on 9/19/2018 using the tweet_scraper.py module found within my [Scrapers repository](https://github.com/james-hubbs/Scrapers).
